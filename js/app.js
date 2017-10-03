@@ -1,4 +1,4 @@
-//function running through 1 to 100 finding all which are divisible by 3 && || 5 
+//function running through 1 to 100 finding all which are divisible by 3 && 5 
 function bingBong() {
     let b3 = 'Bing';
     let b5 = 'Bong';
